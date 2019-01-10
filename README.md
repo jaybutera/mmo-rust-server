@@ -1,3 +1,5 @@
+Corresponds with the [medium article](https://medium.com/p/ce1782199907/edit).
+
 ### To run
 ```bash
 $ cargo run
