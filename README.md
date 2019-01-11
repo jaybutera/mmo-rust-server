@@ -1,4 +1,4 @@
-Corresponds with the [medium article](https://medium.com/p/ce1782199907/edit).
+Corresponds with the [medium article](https://medium.com/p/ce1782199907).
 
 ### To run
 ```bash
